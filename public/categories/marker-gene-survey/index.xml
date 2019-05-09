@@ -5,8 +5,8 @@
     <link>/categories/marker-gene-survey/</link>
     <description>Recent content in Marker Gene Survey on Ben Stelling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>plankton.doctor@gmail.com (Ben Stelling)</managingEditor>
-    <webMaster>plankton.doctor@gmail.com (Ben Stelling)</webMaster>
+    <managingEditor>plankton.doctor@gmail.com</managingEditor>
+    <webMaster>plankton.doctor@gmail.com</webMaster>
     <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/marker-gene-survey/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>DNA Extraction of Small Protists</title>
       <link>/post/2019-05-09-dna-extraction/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      <author>plankton.doctor@gmail.com (Ben Stelling)</author>
+      <author>plankton.doctor@gmail.com</author>
       <guid>/post/2019-05-09-dna-extraction/</guid>
       <description>To start my blog, I’d like to begin with something that seemed quite confusing when I first started researching it. Developing a protocol to extract DNA from protists from the environment was difficult because there were so many confounding variables that need to be accounted for. For one, since the marine protists var across multiple phyla their cell walls can contain silica (Diatoms), cellulose, or other polysaccharides. Also, my lab generally uses silica filters to filter outy plankton from the water column, so I wasn’t sure if these are appropriate for DNA extraction from the ocean.</description>
     </item>

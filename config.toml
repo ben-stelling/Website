@@ -30,9 +30,10 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/odontella.jpg"
+  desc = "Triangle"
+  position = "center top"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
@@ -43,7 +44,7 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Ben Stelling"
+  #name = "Ben Stelling"
   website = "benstelling.com"
   email = "plankton.doctor@gmail.com"
   #facebook = "username"
@@ -55,7 +56,7 @@ pygmentsCodefencesGuessSyntax = true
   #reddit = "username"
   linkedin = "ben-stelling-12268579/"
   #xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
+  #stackoverflow = "users/XXXXXXX/username"
   #snapchat = "username"
   instagram = "dr._plankton"
   youtube = "Dr. Plankton" # or channel/channelname
