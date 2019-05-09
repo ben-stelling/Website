@@ -78,25 +78,25 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "blog"
     name = "Phytoplankton Ecology"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "blog_phytoplankton/"
     weight = 1
     
 [[menu.main]]
     parent = "blog"
     name = "Chemistry/Molecular Biology"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "blog_chem_molec/"
     weight = 3
     
 [[menu.main]]
     parent = "blog"
     name = "Remote Sensing"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "blog_remote_sensing/"
     weight = 4
     
 [[menu.main]]
     parent = "blog"
     name = "Handling Data with R"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "blog_data/"
     weight = 2
 
 [[menu.main]]

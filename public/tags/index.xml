@@ -120,5 +120,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Remote Sensing</title>
+      <link>/tags/remote-sensing/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      <author>plankton.doctor@gmail.com</author>
+      <guid>/tags/remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentinel 3</title>
+      <link>/tags/sentinel-3/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      <author>plankton.doctor@gmail.com</author>
+      <guid>/tags/sentinel-3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
