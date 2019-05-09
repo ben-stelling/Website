@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019-05-09-dna-extraction/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -64,7 +69,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,6 +94,12 @@
   </url>
   
   <url>
+    <loc>/tags/dna-extraction/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/example/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -97,6 +108,12 @@
   <url>
     <loc>/tags/markdown/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/marker-gene-survey/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +142,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/protist/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/protocol/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
