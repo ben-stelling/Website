@@ -69,14 +69,44 @@ pygmentsCodefencesGuessSyntax = true
   #500px = "username"
 
 [[menu.main]]
+    identifier = "blog"
     name = "Blog"
     url = ""
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    parent = "blog"
+    name = "Phytoplankton Ecology"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 1
+    
+[[menu.main]]
+    parent = "blog"
+    name = "Chemistry/Molecular Biology"
+    url = "post/2017-03-07-bigimg-sample"
     weight = 3
+    
+[[menu.main]]
+    parent = "blog"
+    name = "Remote Sensing"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 4
+    
+[[menu.main]]
+    parent = "blog"
+    name = "Handling Data with R"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 2
+
+[[menu.main]]
+    name = "Resume"
+    url = "/post/Resume_2019.pdf"
+    weight = 3
+    
+#[[menu.main]]
+#    name = "About"
+#    url = "post/Resume_2019"
+#    weight = 3
 
 [[menu.main]]
     identifier = "samples"
