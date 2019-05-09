@@ -10,7 +10,8 @@ tags:
   - DNA Extraction
 type: ''
 subtitle: ''
-image: 'img/dna.png'
+#image: 'img/dna.png'
+bigimg: [{src: "/img/dna.jpg"}]
 ---
 
 ```{r setup, include=FALSE}
