@@ -10,7 +10,7 @@ tags: ["Protocol", "Protist", "DNA Extraction"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# DNA Extraction Protocol
+# DNA Extraction ProtocolAAAAAA
 
 To start my blog I'd like to begin with something that seemed quite confusing when I first started researching it. Developing a protocol to extract DNA from protists from the environment was difficult because there were so many confounding variables that need to be accounted for. For one, since the marine protists vary across multiple phyla their cell walls can contain silica (Diatoms), cellulose, or other polysaccharides. Also, my lab generally uses silica filters to filter out plankton from the water column, so I wasn't sure if these are appropriate for DNA extraction from the ocean. I did a bit of research on extracting environmental DNA[USGS pdf] after using the silica filters initially, I found out that polycarbonate filters are generally used to filter out protists from the water column because these filters tend to keep the organisms on the surface of the filter and can dissolve in chloroform, which is a common solvent used during DNA extraction. 
 
