@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
+pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
@@ -79,7 +79,7 @@ pygmentsCodefencesGuessSyntax = true
     parent = "blog"
     name = "Topics"
     url = "tags"
-    weight = 3
+    weight = 1
 
 
 [[menu.main]]
@@ -87,15 +87,15 @@ pygmentsCodefencesGuessSyntax = true
     url = "/post/Resume_2019.pdf"
     weight = 3
     
-#[[menu.main]]
-#    name = "About"
-#    url = "post/Resume_2019"
-#    weight = 3
+[[menu.main]]
+    name = "About"
+    url = "page/about"
+    weight = 2
 
 [[menu.main]]
     identifier = "samples"
     name = "Samples"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
     parent = "samples"

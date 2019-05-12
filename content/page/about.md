@@ -1,16 +1,9 @@
 ---
 comments: false
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 title: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ben Stelling. I am currently a Ph.D. student studying phytoplankton ecology at UF. I am interested in a bunch of semi-related things that I will use this website to post about.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have been trying to live a more disciplined life and believe writing out my thoughts and things I am working on will help me in that endeavor. I don't anticipate there will be a horde of people who end up reading this site, but I hopefully some of my posts will be read and have some utility.
