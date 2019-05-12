@@ -32,7 +32,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[Params.bigimg]]
   src = "img/odontella.jpg"
-  desc = "Triangle"
+  desc = "Odontella"
   position = "center top"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
@@ -72,32 +72,15 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = ""
+    url = "/post/"
     weight = 1
 
 [[menu.main]]
     parent = "blog"
-    name = "Phytoplankton Ecology"
-    url = "blog_phytoplankton/"
-    weight = 1
-    
-[[menu.main]]
-    parent = "blog"
-    name = "Chemistry/Molecular Biology"
-    url = "blog_chem_molec/"
+    name = "Topics"
+    url = "tags"
     weight = 3
-    
-[[menu.main]]
-    parent = "blog"
-    name = "Remote Sensing"
-    url = "blog_remote_sensing/"
-    weight = 4
-    
-[[menu.main]]
-    parent = "blog"
-    name = "Handling Data with R"
-    url = "blog_data/"
-    weight = 2
+
 
 [[menu.main]]
     name = "Resume"
@@ -132,7 +115,3 @@ pygmentsCodefencesGuessSyntax = true
     url = "post/2016-03-08-code-sample"
     weight = 3
 
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
